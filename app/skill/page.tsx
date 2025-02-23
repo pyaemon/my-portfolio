@@ -11,10 +11,10 @@ import htmlImg from '../../public/projectImg/html-bg.png';
 import figmaImg from '../../public/projectImg/figma-bg.png';
 import tsImg from '../../public/projectImg/ts-bg.png';
 import degree from '../../public/projectImg/degree-bg.png';
-import Image from 'next/image';
+import Image, { StaticImageData } from 'next/image';
 import imageData from '../skill/skill.json';
 
-const imgMap = {
+const imgMap: { [key: string]: StaticImageData } = {
   reactImg,
   nestImg,
   dockerImg,

@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import Image, { StaticImageData } from 'next/image';
 import POS from '../../public/projectImg/pos1.png';
 import Brand from '../../public/projectImg/brand.png';
 import Centralize from '../../public/projectImg/tailwan_centralize.png';
@@ -12,7 +12,7 @@ import Evercomm from '../../public/projectImg/evercomm.png';
 import { Button } from '@/components/ui/button';
 import experienceData from '../experience/experience.json';
 
-const imageMap = {
+const imageMap: { [key: string]: StaticImageData } = {
   POS,
   Brand,
   Centralize,
