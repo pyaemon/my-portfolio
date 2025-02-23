@@ -1,0 +1,92 @@
+[
+  {
+    "image": "POS",
+    "description": "Managed the operation of the POS system, including inventory management, order processing, advertising, survey process and sales reporting, customer feedback all with one single tool.",
+    "technical": {
+      "frontend": "Reactjs",
+      "backend": "Nestjs",
+      "framework": "Ant Design"
+    }
+  },
+  {
+    "image": "Brand",
+    "description": "Brand Platform with POS integration essentially combines the foundational elements of brand’s identity. Creating ads, campaigns, defining the audience and offering coupons for a brand integrated into a POS system.",
+    "technical": {
+      "frontend": "Reactjs",
+      "backend": "Nestjs",
+      "framework": "Ant Design"
+    }
+  },
+  {
+    "image": "GS",
+    "description": "Managed the operation of the GameSpace, including game reward energy, survey, segmentation audience target and offering game campaign.",
+    "technical": {
+      "frontend": "Reactjs",
+      "backend": "Nestjs",
+      "framework": "Ant Design"
+    }
+  },
+  {
+    "image": "Stamp",
+    "description": "Stampee is a digital loyalty program aimed at incentivizing grocery shopping at participating stores. Stampee is a loyalty app for grocery shoppers that allows them to collect stamps and redeem them for exciting rewards.",
+    "technical": {
+      "frontend": "Reactjs",
+      "backend": "Nestjs",
+      "framework": "Ant Design"
+    }
+  },
+  {
+    "image": "Centralize",
+    "description": "Complement UI/UX about Acbel chiller UI, Data Analysis, Report Data Quality and Contollable System.",
+    "technical": {
+      "frontend": "Reactjs",
+      "backend": "Nodejs",
+      "framework": "Boostrap/MUI/d3"
+    }
+  },
+  {
+    "image": "FW",
+    "description": "Calculate amount of Wasted Food and show detail with interactive charts of wasted food.",
+    "technical": {
+      "frontend": "Reactjs",
+      "backend": "Nodejs",
+      "framework": "tailwind"
+    }
+  },
+  {
+    "image": "Farm",
+    "description": "Analyzed Data and Implemented visualize dashboard UI for monitoring vertical farm and Created User-friendly Data Input Panel.",
+    "technical": {
+      "frontend": "Reactjs",
+      "backend": "Nodejs",
+      "framework": "Boostrap/d3/chart"
+    }
+  },
+  {
+    "image": "Carbon",
+    "description": "Develop Manual Entry Page for each vehicle fuel consumption, total mileage and uploading record file.",
+    "technical": {
+      "frontend": "Reactjs",
+      "backend": "Nodejs",
+      "framework": "Boostrap/d3/chart"
+    }
+  },
+  {
+    "image": "UNDP",
+    "description": "Create Sustainable Development Goal targets monitoring dashboard and Digital Maturity Assessment Survey Platform.",
+    "technical": {
+      "frontend": "Reactjs",
+      "backend": "Nodejs",
+      "framework": "Boostrap/d3/chart"
+    }
+  },
+  {
+    "image": "Evercomm",
+    "description": "Evercomm Company Website",
+    "technical": {
+      "frontend": "Reactjs",
+      "backend": "CSS",
+      "framework": "Boostrap"
+    }
+  }
+]
